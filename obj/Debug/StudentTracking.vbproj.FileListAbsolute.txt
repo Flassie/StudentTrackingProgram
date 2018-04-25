@@ -1,0 +1,16 @@
+C:\Users\Flassie\source\repos\StudentTracking\StudentTracking\bin\Debug\StudentTracking.exe.config
+C:\Users\Flassie\source\repos\StudentTracking\StudentTracking\bin\Debug\StudentTracking.exe
+C:\Users\Flassie\source\repos\StudentTracking\StudentTracking\bin\Debug\StudentTracking.pdb
+C:\Users\Flassie\source\repos\StudentTracking\StudentTracking\bin\Debug\StudentTracking.xml
+C:\Users\Flassie\source\repos\StudentTracking\StudentTracking\obj\Debug\StudentTracking.vbprojResolveAssemblyReference.cache
+C:\Users\Flassie\source\repos\StudentTracking\StudentTracking\obj\Debug\StudentTracking.LoginForm.resources
+C:\Users\Flassie\source\repos\StudentTracking\StudentTracking\obj\Debug\StudentTracking.Resources.resources
+C:\Users\Flassie\source\repos\StudentTracking\StudentTracking\obj\Debug\StudentTracking.vbproj.GenerateResource.Cache
+C:\Users\Flassie\source\repos\StudentTracking\StudentTracking\obj\Debug\StudentTracking.vbproj.CoreCompileInputs.cache
+C:\Users\Flassie\source\repos\StudentTracking\StudentTracking\obj\Debug\StudentTracking.exe
+C:\Users\Flassie\source\repos\StudentTracking\StudentTracking\obj\Debug\StudentTracking.xml
+C:\Users\Flassie\source\repos\StudentTracking\StudentTracking\obj\Debug\StudentTracking.pdb
+C:\Users\Flassie\source\repos\StudentTracking\StudentTracking\obj\Debug\StudentTracking.MainForm.resources
+C:\Users\Flassie\source\repos\StudentTracking\StudentTracking\obj\Debug\StudentTracking.NewStudentForm.resources
+C:\Users\Flassie\source\repos\StudentTracking\StudentTracking\obj\Debug\StudentTracking.StudentInfo.resources
+C:\Users\Flassie\source\repos\StudentTracking\StudentTracking\obj\Debug\StudentTracking.LessonSelectDialog.resources
